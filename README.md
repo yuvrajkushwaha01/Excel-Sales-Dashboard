@@ -41,7 +41,11 @@ It provides **region-wise & executive-wise sales insights** with automated navig
 ## 📸 Preview
 Here’s a glimpse of the dashboard:  
 
-![Dashboard Screenshot](image screenshot.png)
+![Dashboard Screenshot](## 📸 Preview
+Here’s a glimpse of the dashboard:  
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/yuvrajkushwaha01/Excel-Sales-Dashboard/26d85c300451dac139412cada820c20b5bd6ff48/image%20screenshot.png)
+)
 
 ---
 
