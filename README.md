@@ -58,9 +58,9 @@ Here’s a glimpse of the dashboard:
 
 ## 👨‍💻 Author
 **Yuvraj Kumar Kushwaha**  
-- 🌐 [GitHub](https://github.com/YourGitHubUsername)  
-- 💼 [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)  
-
+📧 your-yuvrajkumarkushwaha7@gmail.com
+🌐 GitHub: yuvrajkushwaha01
+💼 LinkedIn: linkedin.com/in/yuvrajkushwaha01
 
 
 
