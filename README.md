@@ -30,11 +30,12 @@ It provides **region-wise & executive-wise sales insights** with automated navig
 - VBA Macros (Automation + Navigation)
 - Formulas (SUM, AVERAGE, Percentage)
 
-## 📂 Project Structure
-📁 excel-sales-dashboard
-│── 📊 Dashboard.xlsm # Interactive dashboard with macros
-│── 📊 Sales_Data.xlsx # Raw/Processed sales data
-│── 📸 screenshot.png # Dashboard preview image
+📁 Excel-Sales-Dashboard
+│── Dashboard.xlsm                # Interactive dashboard with macros
+│── Sales_Data.xlsx               # Raw / processed sales data
+│── dashboard_screenshot.png      # Dashboard preview image
+│── README.md                     # Project documentation
+
 
 ---
 
